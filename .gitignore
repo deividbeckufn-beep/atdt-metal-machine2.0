@@ -1,0 +1,7 @@
+build/
+build-*/
+JUCE/
+installer/Output/
+dist/
+*.user
+.vs/
